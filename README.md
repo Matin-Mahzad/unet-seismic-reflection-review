@@ -2,13 +2,6 @@
 
 Figures, code and literature corpus supporting the article by **Matin Mahzad**, Institute of Geophysics, University of Tehran.
 
-**Paper:** [TODO: journal link or DOI]
-
-<p align="center">
-  <a href="Figures/Figure_1.pdf"><img src="Figures/Figure_1.png" alt="The seismic reflection workflow and the three operator roles that U-Nets play in it: restoration, mapping and segmentation" width="85%"></a>
-</p>
-<p align="center"><em>Figure 1. The seismic reflection workflow and the three operator roles that U-Nets play in it.</em></p>
-
 ## Overview
 
 The review follows the U-Net through the reflection-seismic workflow, from noise attenuation, interpolation and picking, through migration and inversion, to the interpretation of faults, horizons, salt, facies and geobodies. It poses these tasks as three kinds of learned operator (restoration, mapping and segmentation), derives the U-Net from first principles, follows the architecture through six generations as each reached seismic data, and quantifies that evolution with a text-mined corpus of 754 records published between 2018 and 2026.
